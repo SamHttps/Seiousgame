@@ -1,4 +1,4 @@
-# Seiousgame
+# Serious Game
 Titulo: Cripto Arcane
 
 Descrição:
