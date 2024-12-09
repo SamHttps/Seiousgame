@@ -43,3 +43,8 @@ Resolva desafios criptografados das suas cartas para vencer de forma estratégic
 Utilize as cartas para atacar ou defender conforme sua estratégia.
 Vença o adversário ao reduzir a vida dele a 0!
 Este jogo promove o aprendizado de conceitos básicos de criptografia enquanto testa as habilidades estratégicas dos jogadores. Ideal para competições amigáveis ou aprendizado individual.
+
+ALUNOS:
+SAMUEL HENRIQUE
+VICTOR HUGO
+LUAN RAMIRO
